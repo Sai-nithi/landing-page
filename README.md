@@ -30,4 +30,4 @@ To preview the landing page, you can open the `index.html` file in a web browser
 
 ## Screenshots
 
-![Portfolio Screenshot](/screenshots/landingpage.png)
+![Portfolio Screenshot](/landingpage.png)
