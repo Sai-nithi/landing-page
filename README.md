@@ -27,3 +27,7 @@ To preview the landing page, you can open the `index.html` file in a web browser
 2. Open the project directory in your preferred code editor.
 3. Make changes to the HTML and CSS files as needed to customize the landing page.
 4. Preview the changes in a web browser or deploy the landing page to a hosting service.
+
+## Screenshots
+
+![Portfolio Screenshot](/screenshots/landingpage.png)
